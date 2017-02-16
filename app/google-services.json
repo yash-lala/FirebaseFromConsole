@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "356214200666",
+    "firebase_url": "https://fir-fromconsole.firebaseio.com",
+    "project_id": "fir-fromconsole",
+    "storage_bucket": "fir-fromconsole.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356214200666:android:2b747687e1b4c2bd",
+        "android_client_info": {
+          "package_name": "com.example.alienware.firebasefromconsole"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "356214200666-fhnahkkt7cq9b042eim14g6jbh9t84bc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKRieMcD1_GldLDrDO1Q-1WW19ujp7o1U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
